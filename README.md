@@ -1,3 +1,5 @@
 # Favicon_hash_calculator
 Calculate favicon hash for shodan queries
-va te faire foutre Vlad
+
+#usage
+``./favicon_hash.py https://website.xxx/favicon.ico``
