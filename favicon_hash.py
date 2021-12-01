@@ -1,8 +1,8 @@
 #!/usr/bin/env python3
-#Calcule le hash des favicons, 
-#utile pour de la recherche de fingerprint sur shodan
+#Author: Mathias "s0ca"
+#Calculate the hash of the favicons,
+#useful for fingerprint search on shodan 
 
-#python3 -m pip install mmh3
 #usage :  ./favicon_hash.py https://website.xxx/favicon.ico
 
 import sys
